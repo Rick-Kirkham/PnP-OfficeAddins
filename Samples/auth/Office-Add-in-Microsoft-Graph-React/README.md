@@ -80,9 +80,9 @@ Version  | Date | Comments
 
 6. Run the command: ```npx office-addin-dev-certs install --machine```.
 
-       If you get the following prompt, click **Yes**.
+    If you get the following prompt, click **Yes**.
 
-       ![Screenshot of a dialog that warns about the SSL certificate and asks user to accept or deny installation of it.](/ReadmeImages/CertificateWarningPrompt.png)
+    ![Screenshot of a dialog that warns about the SSL certificate and asks user to accept or deny installation of it.](ReadmeImages/CertificateWarningPrompt.png)
 
 	> Note: If you have worked with another Office Add-in within the last 30 days that was originally created with the Yo Office tool, you may have unexpired certs for localhost already, in which case you will get a message saying that localhost is already trusted. If so, continue with the next section.
 
